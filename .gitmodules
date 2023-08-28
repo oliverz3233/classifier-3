@@ -1,0 +1,3 @@
+[submodule "app/processing"]
+	path = app/processing
+	url = https://github.com/oliverz3233/processing
